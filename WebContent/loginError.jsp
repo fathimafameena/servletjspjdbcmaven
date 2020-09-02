@@ -10,8 +10,8 @@
 <div align="center"><h1 align="center">WELCOME TO GRAND VENETIAN</h1>
 <a href="AboutUs.jsp">ABOUT US</a></div><br><hr>
 <div align="center">
-<h2> Wrong UserName or Password</h2>
-<p style="font-color:red;">Please login again with your correct Credentials or Contact Customer service 4699944917</p>
+<h2 style="color:red;"> Wrong UserName or Password</h2>
+<p>Please login again with your correct Credentials or Contact Customer service 4699944917</p>
 <h3 >Login to see your Details</h3><hr>
 <form action="login" method="post">
 <label>Enter your name:  </label>
