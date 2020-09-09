@@ -3,7 +3,7 @@ import java.sql.*;
 
 public class LoginDao 
 {
-	String sql="select * from members where uname=? and password=?";
+	String sql="select * from persons where uname=? and pass=?";
 	String sqluname="root";
 	String sqlpwd="root";
  String url="jdbc:mysql://localhost:3306/house";
